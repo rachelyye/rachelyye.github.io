@@ -6,10 +6,9 @@
 
 [Analyzing Covid-19 Keywords in Malaysia Using Google Trends Data](/sample_page)
 
-<img src="images/Malaysia's Covid-19 Keywords.png"/>
-
 [![](https://img.shields.io/badge/Jupyter-Open%20Notebook-FFA500?logo=Jupyter)](rachelyye.github.io/Jupyter Files/Malaysia's Covid-19 Keywords.html)
 
+<img src="images/Malaysia's Covid-19 Keywords.png"/>
 
 ---
 
