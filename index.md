@@ -7,7 +7,7 @@
 **Analyzing Covid-19 Keywords in Malaysia Using Google Trends Data**
 
 
-[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-FFA500?logo=Jupyter)](rachelyye.github.io/Jupyter File/Malaysia's Covid-19 Keywords.html)
+[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-FFA500?logo=Jupyter)](https://rachelyye.github.io/Jupyter%20File/Malaysia's%20Covid-19%20Keywords.html)
 
 
 <img src="images/Malaysia's Covid-19 Keywords.png"/>
