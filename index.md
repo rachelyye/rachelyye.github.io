@@ -4,7 +4,7 @@
 
 ### Python Project: Time Series Analysis
 
-**Analyzing Covid-19 Keywords in Malaysia Using Google Trends Data**
+**Analyzing Covid-19 keywords in Malaysia using Google Trends data**
 
 
 [![](https://img.shields.io/badge/Jupyter-Open%20Notebook-FFA500?logo=Jupyter)](https://rachelyye.github.io/Jupyter%20File/Malaysia's%20Covid-19%20Keywords.html)
