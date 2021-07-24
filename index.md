@@ -23,7 +23,7 @@
 [![](https://img.shields.io/badge/Jupyter-Open%20Notebook-FFA500?logo=Jupyter)](https://rachelyye.github.io/Jupyter%20File/Financial%20Budget%20Analysis.html)
 
 
-<img src="images/Malaysia's Covid-19 Keywords.png"/>
+<img src="images/Financial Budget Analysis.PNG"/>
 
 
 
