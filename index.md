@@ -31,9 +31,8 @@
 ### Excel
 
 
-[![](https://img.shields.io/badge/Excel-Download%20Excel-008000?logo=Excel)](rachelyye.github.io/Jupyter File/test.xlsx)
+![](https://img.shields.io/badge/Excel-Download%20Excel-008000?logo=Excel)
 
-[![](https://img.shields.io/badge/Excel-Download%20Excel-008000?logo=Excel)](rachelyye.github.io/Jupyter File/test.xlsx)
 
 Download here: "rachelyye.github.io/Jupyter File/test.xlsx"
 ---
