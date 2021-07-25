@@ -15,9 +15,7 @@ description:
   </p>
   
   
-github: 
-  is\_project\_page: false
-  
+
   
 theme: jekyll-theme-minimal
 google_analytics: xxxxxx # Google Analytics tracking ID
