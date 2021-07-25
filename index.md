@@ -31,10 +31,9 @@
 ### Excel
 
 
-![](https://img.shields.io/badge/Excel-Download%20Excel-008000?logo=Excel)
+![](https://img.shields.io/badge/Excel-Copy%20the%20link%20and%20paste%20into%20your%20browser%20to%20download-008000?logo=Excel)
 
-
-Download here: "rachelyye.github.io/Jupyter File/test.xlsx"
+Copy this link: rachelyye.github.io/Jupyter File/test.xlsx
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
