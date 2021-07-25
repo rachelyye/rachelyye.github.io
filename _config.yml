@@ -16,7 +16,7 @@ description:
   
   
 github: 
-  is\_project\_page:false
+  is\_project\_page: false
   
   
 theme: jekyll-theme-minimal
