@@ -15,7 +15,8 @@ description:
   </p>
   
   
-github: is\_project\_page:false
+github: 
+  is\_project\_page:false
   
   
 theme: jekyll-theme-minimal
