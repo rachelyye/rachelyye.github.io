@@ -4,7 +4,7 @@
 
 ### Python Project: Hotel Booking Analysis
 
-**Answer interesting questions such as which hotel is more popular, what is the price, who are the main guests and more!**
+**Analyzing hotel trends, customer segmentation, price trends and more**
 
 [![](https://img.shields.io/badge/Jupyter-Open%20Notebook-FFA500?logo=Jupyter)](https://rachelyye.github.io/Jupyter%20File/Hotel%20Booking%20Analysis.html)
 
