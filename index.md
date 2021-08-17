@@ -42,11 +42,13 @@
 
 ### SQL Project: Job Ads Exercise using MySQL
 
-**Analyzing Job Adverts Database**
+**Query the Job Adverts Database**
 
 
 [![](https://img.shields.io/badge/Jupyter-Open%20Notebook-FFA500?logo=Jupyter)](https://rachelyye.github.io/Jupyter%20File/Job%20Ads%20Exercise%20using%20MySQL.html)
 
+
+<img src="images/Financial Budget Analysis.PNG"/>
 
 ---
 
