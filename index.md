@@ -45,7 +45,8 @@
 **Analyzing Job Adverts Database**
 
 
-[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-FFA500?logo=Jupyter)](rachelyye.github.io/Jupyter File/Job Ads Exercise using MySQL.html)
+[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-FFA500?logo=Jupyter)](https://rachelyye.github.io/Jupyter%20File/Job%20Ads%20Exercise%20using%20MySQL.html)
+
 
 ---
 
