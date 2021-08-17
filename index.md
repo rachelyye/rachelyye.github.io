@@ -50,7 +50,20 @@
 
 <img src="images/Job Ads.PNG"/> 
 
+
 ---
 
+### SQL Project: Spotify Exercise using MySQL
+
+**Query the Spotify Database**
+
+
+[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-FFA500?logo=Jupyter)](https://rachelyye.github.io/Jupyter%20File/Spotify%20Exercise%20using%20MySQL.html)
+
+
+<img src="images/Job Ads.PNG"/> 
+
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
