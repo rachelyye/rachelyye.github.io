@@ -40,7 +40,7 @@
 
 ---
 
-### SQL Project: Job Ads Exercise using MySQL
+### SQL Exercise: Job Ads Exercise using MySQL
 
 **Query the Job Adverts Database**
 
@@ -53,7 +53,7 @@
 
 ---
 
-### SQL Project: Spotify Exercise using MySQL
+### SQL Exercise: Spotify Exercise using MySQL
 
 **Query the Spotify Database**
 
